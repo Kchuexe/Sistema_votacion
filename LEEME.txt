@@ -1,0 +1,20 @@
+Para instalar el proyecto PHP, sigue estos pasos:
+
+Descarga e instala XAMPP en tu ordenador. XAMPP es un paquete de software que incluye Apache, PHP, MySQL y otras herramientas necesarias para ejecutar proyectos PHP en tu ordenador.
+
+Una vez que hayas instalado XAMPP, abre el Panel de Control de XAMPP.
+
+En el Panel de Control de XAMPP, asegúrate de que Apache y MySQL estén activados. Si no están activados, haz clic en el botón "Start" al lado de cada uno de ellos.
+
+Crea una carpeta en la carpeta htdocs dentro de la carpeta de instalación de XAMPP. Esta carpeta será el directorio raíz del proyecto. Tiene que tener el siguiente nombre "DesarrolloJob".
+
+Copia todos los archivos del proyecto en la carpeta que creaste en el paso anterior.
+
+Abre tu navegador web y escribe "localhost/DesarrolloJob" en la barra de direcciones. Deberías ver la página principal de tu proyecto.
+
+Como el proyecto PHP utiliza una base de datos MySQL, crea la base de datos y el usuario correspondiente en la herramienta phpMyAdmin de XAMPP.El nombre de usuario por defecto es "root" y el nombre de la base de datos es "votacion". Para acceder a phpMyAdmin, abre tu navegador web y escribe "localhost/phpmyadmin" en la barra de direcciones.
+
+Versión del cliente de base de datos: libmysql - mysqlnd 7.4.11
+Versión de PHP: 7.4.11
+
+
